@@ -24,7 +24,7 @@ To explore the visualizations and dashboards:
 3. Interact with the visualizations, apply filters, and explore the insights derived from the data.
 
 ## Credits
-- Data Source: https://github.com/HarshChaudhary1312/Tableau-Superstore-Salesdata-Analysis/blob/main/Superstore%20sales.csv
+- Data Source: https://github.com/Aakash-2612/TABLEAU-Superstore_Sales_Dashboard/blob/main/Superstore%20sales.csv
 - Visualization Tools: Tableau Desktop, Tableau Public
 
   
